@@ -146,14 +146,19 @@ header {
 	margin-inline: 5px;
 	width: 13px;
 	height: 13px;
+	background-color: #ffffff00;
 	border: 3px solid #fff;
 	border-radius: 100%;
 	box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-	--fa: none;
 }
 .dot_selected {
 	background-color: #fff;
 }
+
+.fa-circle-dot {
+	--fa: none;
+}
+
 /* Fin du code CSS pour le carousel */
 #banner p {
 	font-family: 'Roboto Slab', sans-serif;
