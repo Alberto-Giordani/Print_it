@@ -155,8 +155,9 @@ header {
 	background-color: #fff;
 }
 
-.fa-solid:before {
-	content: none;
+.fa-solid::before {
+	content: "" !important;
+	display: none !important;
 }
 
 /* Fin du code CSS pour le carousel */
