@@ -155,8 +155,8 @@ header {
 	background-color: #fff;
 }
 
-.fa-circle-dot {
-	--fa: none;
+.fa-solid:before {
+	content: none;
 }
 
 /* Fin du code CSS pour le carousel */
