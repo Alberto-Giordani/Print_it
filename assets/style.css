@@ -155,11 +155,6 @@ header {
 	background-color: #fff;
 }
 
-.fa-solid::before {
-	content: "" !important;
-	display: none !important;
-}
-
 /* Fin du code CSS pour le carousel */
 #banner p {
 	font-family: 'Roboto Slab', sans-serif;
